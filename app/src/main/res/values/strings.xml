@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PicInPic</string>
+
+    <string name="purchase_key">Enter your key that you gave from CAFE BAZAAR. If you wan to use GooglePlay as purchase service, you should replace "aidl" file to GooglePlay's</string>
+</resources>
